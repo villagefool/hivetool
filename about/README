@@ -1,0 +1,23 @@
+Hivetool.org is an open source project comprised of beekeepers who work in electronics
+and information technology as programmers and database and system administrators. 
+Our goal is to produce software tools to monitor, manage and research bees and honey production. 
+
+The open source software is linux based (although it should run on Windows) that uses 
+commercial, off the shelf, consumer grade (low cost) hardware. The software supports 
+as many different brands of hardware as possible, to avoid being locked into one vendor, 
+technology or computing platform as technology advances so rapidly. 
+
+The plan is to populate a database with every variable we can measure, both in the hive 
+(e.g. weight, temperature, humidity, bee counts, audio, video, VOCs), ambient conditions 
+(solar radiation, barometric pressure, rain, wind, etc), - and hive parameters such as 
+location, elevation, orientation, hive design, foundation material, etc. The data is both 
+for our own research and management and for any other beekeeper, researcher or student for data mining. 
+
+There are currently 4 hives on-line: GA003, GA004, GA005 and NC002. Several others should 
+be on-line soon. GA006 is a Raspberry Pi board undergoing testing. Other facets of the 
+project in the works are a smart phone app that will interface to the scale, temperature probes, 
+etc for remote yards and a video camera bee counter using openCV libraries, 
+
+All the data is available for download by anyone at anytime. We welcome engineers, programmers, 
+scientists, researchers, bee keepers, and citizen scientists from anywhere around the world and 
+invite you to join our effort.
